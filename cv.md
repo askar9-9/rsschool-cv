@@ -2,11 +2,11 @@
 
 # Askarbek Omarbekov
 
-**Контакты для связи:**
-Email: askaromarbekov9.9@gmail.com  
-LinkedIn: [askarbek-omarbekov](www.linkedin.com/in/askarbek-omarbekov)
-GitHub: [askar9-9](https://github.com/askar9-9)
-Telegram: [@askar9-9](https://t.me/askar9_9)
+**Контакты для связи:**  
+Email: askaromarbekov9.9@gmail.com    
+LinkedIn: [askarbek-omarbekov](www.linkedin.com/in/askarbek-omarbekov)  
+GitHub: [askar9-9](https://github.com/askar9-9)  
+Telegram: [@askar9-9](https://t.me/askar9_9)  
 
 ---
 
@@ -27,6 +27,7 @@ Telegram: [@askar9-9](https://t.me/askar9_9)
 - **Курсы и тренинги:**
   - Курс Python от Samsung Innovation Campus
   - 4-недельный Буткемп от Alem School
+    
 ---
 
 **Английский язык:**
