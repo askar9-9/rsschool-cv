@@ -27,7 +27,7 @@ I am a beginner developer with a strong desire to learn and grow in the field of
 ### Code Examples
 
 ##### JavaScript
-```
+```javascript
     function add(a, b) {
         return a + b;
     }
@@ -36,7 +36,7 @@ I am a beginner developer with a strong desire to learn and grow in the field of
 ```
 
 ##### Python
-```
+```python
     def add(a, b):
         return a + b
         
@@ -44,7 +44,7 @@ I am a beginner developer with a strong desire to learn and grow in the field of
 ```
 
 ##### Golang
-```
+```golang
     package main
 
     import "fmt"
