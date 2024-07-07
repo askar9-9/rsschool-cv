@@ -1,0 +1,303 @@
+body {
+    background-color: #ECF0F1; /* фоновый цвет */
+    color: #2C3E50; /* основной цвет */
+    font-family: "JetBrains Mono", monospace;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: #2C3E50; /* основной цвет */
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: #13967d; /* второстепенный цвет */
+    text-decoration: none;
+}
+
+.main, .header, .footer {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
+.header {
+    padding: 20px;
+}
+
+.nav__list {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+}
+
+
+.nav__item{
+    font-size: 16px;
+    font-weight: bold;
+    list-style: none;
+    margin: 0;
+}
+
+.main {
+    padding: 20px;
+}
+
+.profile {
+    display: flex;
+    gap: 50px;
+    padding-top: 30px;
+}
+
+.profile__picture {
+    max-width: 200px;
+    border-radius: 5%;
+}
+
+.profile__username {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    margin: 0;
+}
+
+.profile__profession {
+    font-size: 20px;
+    opacity: 0.6;
+    margin: 0;
+}
+
+.profile__place {
+    margin: 0;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.profile__birth-date {
+    margin: 0;
+    font-size: 20px;
+    margin-top: 10px;
+    opacity: 0.8;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding-top: 50px;
+}
+
+.contact__title {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: start;
+    margin: 0 0 10px 0;
+}
+
+.contact__email, .contact__github, .contact__discord {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.b_text {
+    font-weight: bold;
+}
+
+.about {
+    padding-top: 50px;
+}
+
+.about__title {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 0 10px 0;
+}
+
+.about__text {
+    max-width: 70%;
+    margin: 0;
+}
+
+.skill {
+    padding-top: 50px;
+}
+
+.skill__list {
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.skill__list li {
+    list-style: inside;
+}
+
+.skill__title {
+    font-size: 30px;
+    margin: 0;
+}
+
+.project {
+    padding-top: 50px;
+}
+
+.project__title {
+    margin: 0;
+    font-size: 30px;
+}
+
+.project__list {
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.project__list li {
+    list-style: none;
+}
+
+.project__name {
+    font-size: 20px;
+}
+
+.project__description {
+    margin: 0;
+    margin-top: 10px;
+    max-width: 70%;
+}
+
+.code {
+    padding-top: 50px;
+}
+
+.code__title {
+    font-size: 30px;
+    margin: 0;
+}
+
+.code__list {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 20px;
+}
+
+.code__list li {
+    margin: 0;
+    list-style: none;
+}
+
+.code__subtitle {
+    margin: 0;
+}
+
+.code__item {
+    margin: 0;
+}
+
+.code__item code {
+    font-size: 16px;
+}
+
+.edu {
+    padding-top: 50px;
+}
+
+.edu__title {
+    font-size: 30px;
+    margin: 0;
+}
+
+.edu__content {
+    padding: 20px;
+}
+
+.edu__subtitle {
+    margin: 0;
+}
+
+.edu__date {
+    opacity: 0.7;
+}
+
+.edu__description {
+    margin: 10px 0 0 0;
+}
+
+.course {
+    padding-top: 50px;
+}
+
+.course__title {
+    font-size: 30px;
+    margin: 0;
+}
+
+.course__list {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 10px;
+}
+
+.course__item {
+    font-size: 16px;
+    list-style: inside;
+}
+
+.lang {
+    padding-top: 50px;
+}
+
+.lang__title {
+    font-size: 30px;
+    margin: 0;
+}
+
+.lang__list {
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.lang__item {
+    font-size: 16px;
+}
+
+.footer {
+    padding: 20px;
+}
+
+.link__list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.link__list li a {
+    color: #2C3E50;
+}
+
+#Layer_1 {
+    width: 50px;
+}
+
